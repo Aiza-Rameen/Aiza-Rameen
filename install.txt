@@ -1,0 +1,5 @@
+pip install opencv-python
+pip install osgeo
+pip install spectral
+pip install pysptools
+pip install scikit-image
